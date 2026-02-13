@@ -8,9 +8,9 @@ Aspiring Full Stack Dev | Cybersecurity Enthusiast | Photographer
 - Building ChamaFlow - an investment management tool
 
 ## 🧘‍♂️ Beyond the code
- - Capturing street photography 📸
+ - Capturing street photography 
  - Watching Arsenal stress me out 🥲
- - Watching Anime 📺
+ - Watching Anime 
 
 <!--
 **afrxcan/afrxcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
